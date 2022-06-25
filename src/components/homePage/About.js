@@ -85,10 +85,10 @@ const About = () => {
                 <div className="about-sub-data">
                   {tab === "experience" ? (
                     <div className="work-experiences">
-                      <h5>TechnoVani Private Limited</h5>
+                      <h5>DXC Technology</h5>
                       <ul>
                         <li>
-                          Working As a Backend Developer (Tech - Laravel,PHP)
+                          Working As a Full Stack Developer (Tech - .NET, SQL Server)
                         </li>
                       </ul>
                     </div>
